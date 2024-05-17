@@ -1,0 +1,1 @@
+$(function(){$(".js-c-link-blocks__link").matchHeight(),$(".js-c-link-blocks__title").matchHeight(),$(".js-c-link-blocks__text").matchHeight()});

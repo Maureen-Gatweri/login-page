@@ -1,0 +1,51 @@
+.signup-page{
+    display: flex;
+    margin-top: 4%;
+}
+.signin{
+    padding-left: 10%;
+    width: 600px;
+
+
+}
+.signup{
+    width: 600px;
+    margin-left: 3%;
+}
+h1{
+    color: rgb(58,69,99);
+    font-size: 35px;
+    
+}
+input{
+    width: 250px;
+    height: 35px;
+  border-radius: 7px;
+}
+button{
+    background-color: rgb(58,69,99);
+    color: white;
+    width: 280px;
+    border-radius: 5%;
+    height: 40px;
+}
+p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 30px;
+}
+h4{
+    font-weight: 100;
+    color: rgb(180, 151, 226);
+}
+.button2{
+    background-color: white;
+    color: black;
+    font-weight: 400;
+    border-color: aliceblue;
+}
+.paragraph{
+    text-align: left;
+}
